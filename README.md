@@ -1,4 +1,5 @@
-# python-data-visualization-
-data visualization in python
+# the-introduction-of-spark
 
-seaborn is a good visualization tool.
+Spark is a big data processing engine.
+
+Here is a simple introduction of spark in python.
